@@ -1,0 +1,250 @@
+Disease,itching,skin_rash,nausea,chills,watering_from_eyes,shivering,cough,stomach_pain,acidity,vomiting,weight_loss,fatigue,dizziness
+Fungal infection,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no
+Allergy,yes,no,no,yes,yes,yes,no,no,no,no,no,no,yes
+GERD,no,no,no,no,no,no,no,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,no,no,no,no,no,no,yes,no,no,no
+Drug Reaction,yes,yes,no,no,no,no,yes,yes,no,no,no,no,yes
+Peptic ulcer diseae,no,no,yes,no,no,no,no,yes,no,yes,no,no,no
+AIDS,no,no,no,no,no,yes,no,yes,no,yes,yes,no,no
+Diabetes ,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no
+Gastroenteritis,no,no,no,no,no,no,no,yes,yes,no,no,yes,yes
+Bronchial Asthma,no,no,yes,no,no,yes,yes,no,no,no,no,yes,yes
+Hypertension ,no,no,yes,yes,yes,no,no,no,no,no,yes,yes,yes
+Migraine,no,no,no,no,no,yes,no,no,yes,yes,no,no,yes
+Jaundice,yes,no,no,no,no,yes,no,no,no,yes,yes,yes,no
+Fungal infection,no,yes,yes,no,no,no,yes,no,no,no,no,no,no
+Allergy,no,no,no,yes,yes,yes,no,no,no,no,no,no,yes
+GERD,no,no,no,no,no,no,no,no,yes,yes,no,no,no
+Chronic cholestasis,no,yes,yes,no,no,no,no,no,no,yes,no,no,no
+Drug Reaction,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes
+Peptic ulcer diseae,no,no,no,no,no,no,no,yes,no,yes,no,no,no
+AIDS,no,no,no,no,no,no,no,yes,no,yes,yes,no,no
+Diabetes ,no,no,no,yes,no,no,no,no,no,no,yes,yes,no
+Gastroenteritis,no,no,no,no,no,no,no,no,yes,no,no,yes,yes
+Bronchial Asthma,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes
+Hypertension ,no,no,no,yes,yes,no,no,no,no,no,yes,yes,yes
+Migraine,no,no,no,no,no,no,no,no,yes,yes,no,no,yes
+Jaundice,no,no,no,no,no,yes,no,no,no,yes,yes,yes,no
+Fungal infection,yes,no,yes,no,no,no,yes,no,no,no,no,no,no
+Allergy,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes
+GERD,no,no,no,no,no,no,no,yes,no,yes,no,no,no
+Chronic cholestasis,yes,no,yes,no,no,no,no,no,no,yes,no,no,no
+Drug Reaction,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes
+Peptic ulcer diseae,no,no,yes,no,no,no,no,no,no,yes,no,no,no
+AIDS,no,no,no,no,no,yes,no,no,no,yes,yes,no,no
+Diabetes ,no,no,yes,no,no,no,no,no,no,no,yes,yes,no
+Gastroenteritis,no,no,no,no,no,no,no,yes,no,no,no,yes,yes
+Bronchial Asthma,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes
+Hypertension ,no,no,yes,no,yes,no,no,no,no,no,yes,yes,yes
+Migraine,no,no,no,no,no,yes,no,no,no,yes,no,no,yes
+Jaundice,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no
+Fungal infection,yes,yes,no,no,no,no,yes,no,no,no,no,no,no
+Allergy,yes,no,no,yes,no,yes,no,no,no,no,no,no,yes
+GERD,no,no,no,no,no,no,no,yes,yes,no,no,no,no
+Chronic cholestasis,yes,yes,no,no,no,no,no,no,no,yes,no,no,no
+Drug Reaction,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes
+Peptic ulcer diseae,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+AIDS,no,no,no,no,no,yes,no,yes,no,no,yes,no,no
+Diabetes ,no,no,yes,yes,no,no,no,no,no,no,no,yes,no
+Gastroenteritis,no,no,no,no,no,no,no,yes,yes,no,no,no,yes
+Bronchial Asthma,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes
+Hypertension ,no,no,yes,yes,no,no,no,no,no,no,yes,yes,yes
+Migraine,no,no,no,no,no,yes,no,no,yes,no,no,no,yes
+Jaundice,yes,no,no,no,no,yes,no,no,no,no,yes,yes,no
+Fungal infection,yes,yes,yes,no,no,no,no,no,no,no,no,no,no
+Allergy,yes,no,no,yes,yes,no,no,no,no,no,no,no,yes
+GERD,no,no,no,no,no,no,no,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,no,no,no,no,no,no,no,no,no,no
+Drug Reaction,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes
+Peptic ulcer diseae,no,no,yes,no,no,no,no,yes,no,yes,no,no,no
+AIDS,no,no,no,no,no,yes,no,yes,no,yes,no,no,no
+Diabetes ,no,no,yes,yes,no,no,no,no,no,no,yes,no,no
+Gastroenteritis,no,no,no,no,no,no,no,yes,yes,no,no,yes,no
+Bronchial Asthma,no,no,yes,no,no,yes,yes,no,no,no,no,no,yes
+Hypertension ,no,no,yes,yes,yes,no,no,no,no,no,no,yes,yes
+Migraine,no,no,no,no,no,yes,no,no,yes,yes,no,no,no
+Jaundice,yes,no,no,no,no,yes,no,no,no,yes,no,yes,no
+Fungal infection,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no
+Allergy,yes,yes,no,yes,yes,yes,no,no,no,no,no,no,yes
+GERD,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,yes,no,no,no,no,no,yes,no,no,no
+Drug Reaction,yes,yes,yes,no,no,no,yes,yes,no,no,no,no,yes
+Peptic ulcer diseae,yes,no,yes,no,no,no,no,yes,no,yes,no,no,no
+AIDS,yes,no,no,no,no,yes,no,yes,no,yes,yes,no,no
+Diabetes ,yes,no,yes,yes,no,no,no,no,no,no,yes,yes,no
+Gastroenteritis,yes,no,no,no,no,no,no,yes,yes,no,no,yes,yes
+Bronchial Asthma,yes,no,yes,no,no,yes,yes,no,no,no,no,yes,yes
+Hypertension ,yes,no,yes,yes,yes,no,no,no,no,no,yes,yes,yes
+Migraine,yes,no,no,no,no,yes,no,no,yes,yes,no,no,yes
+Jaundice,yes,yes,no,no,no,yes,no,no,no,yes,yes,yes,no
+Fungal infection,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,no
+Allergy,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,yes
+GERD,no,yes,no,no,no,no,no,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,no,yes,no,no,no,no,yes,no,no,no
+Drug Reaction,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,yes
+Peptic ulcer diseae,no,yes,yes,no,no,no,no,yes,no,yes,no,no,no
+AIDS,no,yes,no,no,no,yes,no,yes,no,yes,yes,no,no
+Diabetes ,no,yes,yes,yes,no,no,no,no,no,no,yes,yes,no
+Gastroenteritis,no,yes,no,no,no,no,no,yes,yes,no,no,yes,yes
+Bronchial Asthma,no,yes,yes,no,no,yes,yes,no,no,no,no,yes,yes
+Hypertension ,no,yes,yes,yes,yes,no,no,no,no,no,yes,yes,yes
+Migraine,no,yes,no,no,no,yes,no,no,yes,yes,no,no,yes
+Jaundice,yes,no,yes,no,no,yes,no,no,no,yes,yes,yes,no
+Fungal infection,yes,yes,yes,no,no,no,yes,yes,no,no,no,no,no
+Allergy,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,yes
+GERD,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,no,no,no,yes,no,no,yes,no,no,no
+Drug Reaction,yes,yes,no,no,no,yes,yes,yes,no,no,no,no,yes
+Peptic ulcer diseae,no,no,yes,no,yes,no,no,yes,no,yes,no,no,no
+AIDS,no,no,no,yes,no,yes,no,yes,no,yes,yes,no,no
+Diabetes ,no,no,yes,yes,no,yes,no,no,no,no,yes,yes,no
+Gastroenteritis,no,no,no,yes,no,no,no,yes,yes,no,no,yes,yes
+Bronchial Asthma,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes
+Hypertension ,no,no,yes,yes,yes,no,yes,no,no,no,yes,yes,yes
+Migraine,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes
+Jaundice,yes,no,no,no,yes,yes,no,no,no,yes,yes,yes,no
+Fungal infection,yes,yes,yes,no,no,no,yes,no,no,yes,no,no,no
+Allergy,yes,no,no,yes,yes,yes,no,no,no,yes,no,no,yes
+GERD,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,no,no,no,no,no,yes,yes,no,no,no
+Drug Reaction,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,yes
+Peptic ulcer diseae,no,no,yes,no,no,no,yes,yes,no,yes,no,no,no
+AIDS,no,no,no,no,no,yes,yes,yes,no,yes,yes,no,no
+Diabetes ,no,no,yes,yes,no,no,no,yes,no,no,yes,yes,no
+Gastroenteritis,no,no,no,no,no,yes,no,yes,yes,no,no,yes,yes
+Bronchial Asthma,no,no,yes,no,no,yes,yes,no,yes,no,no,yes,yes
+Hypertension ,no,no,yes,yes,yes,no,no,no,yes,no,yes,yes,yes
+Migraine,no,no,no,no,no,yes,yes,no,yes,yes,no,no,yes
+Jaundice,yes,no,no,no,no,yes,no,yes,no,yes,yes,yes,no
+Fungal infection,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,no
+Allergy,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,yes
+GERD,yes,yes,no,no,no,no,no,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,yes,yes,no,no,no,no,yes,no,no,no
+Drug Reaction,yes,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes
+Peptic ulcer diseae,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,no
+AIDS,yes,yes,no,no,no,yes,no,yes,no,yes,yes,no,no
+Diabetes ,yes,yes,yes,yes,no,no,no,no,no,no,yes,yes,no
+Gastroenteritis,yes,yes,no,no,no,no,no,yes,yes,no,no,yes,yes
+Bronchial Asthma,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes,yes
+Hypertension ,yes,yes,yes,yes,yes,no,no,no,no,no,yes,yes,yes
+Migraine,yes,yes,no,no,no,yes,no,no,yes,yes,no,no,yes
+Jaundice,yes,yes,yes,no,no,yes,no,no,no,yes,yes,yes,no
+Fungal infection,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no
+Allergy,yes,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes
+GERD,no,no,yes,yes,no,no,no,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,no,no,yes,yes,no,no,yes,no,no,no
+Drug Reaction,yes,yes,no,no,yes,yes,yes,yes,no,no,no,no,yes
+Peptic ulcer diseae,no,no,yes,yes,yes,no,no,yes,no,yes,no,no,no
+AIDS,no,no,yes,yes,no,yes,no,yes,no,yes,yes,no,no
+Diabetes ,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no
+Gastroenteritis,no,no,yes,yes,no,no,no,yes,yes,no,no,yes,yes
+Bronchial Asthma,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes
+Hypertension ,no,no,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes
+Migraine,no,no,yes,yes,no,yes,no,no,yes,yes,no,no,yes
+Jaundice,yes,no,no,yes,yes,yes,no,no,no,yes,yes,yes,no
+Fungal infection,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes
+Allergy,yes,no,no,yes,yes,yes,no,no,no,no,yes,yes,yes
+GERD,no,no,no,no,no,no,no,yes,yes,yes,no,yes,yes
+Chronic cholestasis,yes,yes,yes,no,no,no,no,no,no,yes,no,yes,yes
+Drug Reaction,yes,yes,no,no,no,no,yes,yes,no,no,yes,yes,yes
+Peptic ulcer diseae,no,no,yes,no,no,no,no,yes,no,yes,no,yes,yes
+AIDS,no,no,no,no,no,yes,no,yes,no,yes,yes,yes,yes
+Diabetes ,no,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes
+Gastroenteritis,no,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes
+Bronchial Asthma,no,no,yes,no,no,yes,yes,no,no,yes,yes,yes,yes
+Hypertension ,no,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes
+Migraine,no,no,no,no,no,yes,no,no,yes,yes,yes,yes,yes
+Jaundice,yes,no,no,no,no,yes,no,no,yes,yes,yes,yes,yes
+Fungal infection,yes,yes,yes,yes,no,no,yes,yes,no,no,no,no,no
+Allergy,yes,yes,no,yes,yes,yes,no,yes,no,no,no,no,yes
+GERD,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,yes,no,no,yes,no,no,yes,no,no,no
+Drug Reaction,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,yes
+Peptic ulcer diseae,yes,no,yes,no,yes,no,no,yes,no,yes,no,no,no
+AIDS,yes,no,no,yes,no,yes,no,yes,no,yes,yes,no,no
+Diabetes ,yes,no,yes,yes,no,yes,no,no,no,no,yes,yes,no
+Gastroenteritis,yes,no,no,yes,no,no,no,yes,yes,no,no,yes,yes
+Bronchial Asthma,yes,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes
+Hypertension ,yes,no,yes,yes,yes,no,yes,no,no,no,yes,yes,yes
+Migraine,yes,no,no,yes,no,yes,no,no,yes,yes,no,no,yes
+Jaundice,yes,yes,no,no,yes,yes,no,no,no,yes,yes,yes,no
+Fungal infection,yes,yes,yes,yes,no,no,yes,no,no,no,yes,no,no
+Allergy,yes,yes,no,yes,yes,yes,no,no,no,no,yes,no,yes
+GERD,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,yes,no,no,no,no,no,yes,yes,no,no
+Drug Reaction,yes,yes,yes,no,no,no,yes,yes,no,no,yes,no,yes
+Peptic ulcer diseae,yes,no,yes,no,no,no,no,yes,yes,yes,no,no,no
+AIDS,yes,no,no,no,no,yes,no,yes,yes,yes,yes,no,no
+Diabetes ,yes,no,yes,yes,no,no,no,no,yes,no,yes,yes,no
+Gastroenteritis,yes,no,no,no,no,no,yes,yes,yes,no,no,yes,yes
+Bronchial Asthma,yes,no,yes,no,no,yes,yes,no,no,no,yes,yes,yes
+Hypertension ,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes
+Migraine,yes,no,no,no,no,yes,no,yes,yes,yes,no,no,yes
+Jaundice,yes,yes,no,no,no,yes,no,no,yes,yes,yes,yes,no
+Fungal infection,yes,yes,yes,no,no,yes,yes,no,yes,no,no,no,no
+Allergy,yes,no,no,yes,yes,yes,yes,no,yes,no,no,no,yes
+GERD,no,no,yes,no,yes,no,no,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,no,no,yes,no,yes,no,yes,no,no,no
+Drug Reaction,yes,yes,no,no,yes,no,yes,yes,yes,no,no,no,yes
+Peptic ulcer diseae,no,no,yes,yes,no,yes,no,yes,no,yes,no,no,no
+AIDS,no,no,yes,no,yes,yes,no,yes,no,yes,yes,no,no
+Diabetes ,no,no,yes,yes,yes,no,yes,no,no,no,yes,yes,no
+Gastroenteritis,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,yes
+Bronchial Asthma,no,no,yes,yes,no,yes,yes,yes,no,no,no,yes,yes
+Hypertension ,no,no,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes
+Migraine,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,yes
+Jaundice,yes,no,no,yes,no,yes,yes,no,no,yes,yes,yes,no
+Fungal infection,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes,no
+Allergy,yes,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes
+GERD,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no
+Chronic cholestasis,yes,yes,yes,no,no,yes,no,no,no,yes,no,no,yes
+Drug Reaction,yes,yes,no,no,yes,no,yes,yes,no,no,no,yes,yes
+Peptic ulcer diseae,no,no,yes,yes,no,no,no,yes,no,yes,yes,no,no
+AIDS,no,no,yes,no,no,yes,no,yes,no,yes,yes,yes,no
+Diabetes ,no,no,yes,yes,yes,no,no,no,no,yes,yes,yes,no
+Gastroenteritis,no,no,yes,no,no,no,no,yes,yes,yes,no,yes,yes
+Bronchial Asthma,no,no,yes,yes,no,yes,yes,no,no,no,yes,yes,yes
+Hypertension ,no,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes
+Migraine,no,no,yes,no,no,yes,no,no,yes,yes,yes,no,yes
+Jaundice,yes,no,no,yes,no,yes,no,no,no,yes,yes,yes,yes
+Fungal infection,yes,yes,yes,no,no,no,yes,yes,no,yes,no,no,no
+Allergy,yes,no,no,yes,yes,yes,no,yes,no,yes,no,no,yes
+GERD,no,no,no,yes,no,yes,no,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,no,no,no,yes,no,yes,yes,no,no,no
+Drug Reaction,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,yes
+Peptic ulcer diseae,no,no,yes,no,yes,no,yes,yes,no,yes,no,no,no
+AIDS,no,no,no,yes,no,yes,yes,yes,no,yes,yes,no,no
+Diabetes ,no,no,yes,yes,no,yes,no,yes,no,no,yes,yes,no
+Gastroenteritis,no,no,no,yes,no,yes,no,yes,yes,no,no,yes,yes
+Bronchial Asthma,no,no,yes,no,yes,yes,yes,yes,no,no,no,yes,yes
+Hypertension ,no,no,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes
+Migraine,no,no,no,yes,no,yes,yes,no,yes,yes,no,no,yes
+Jaundice,yes,no,no,no,yes,yes,no,yes,no,yes,yes,yes,no
+Fungal infection,yes,yes,yes,no,no,no,yes,yes,no,no,yes,no,no
+Allergy,yes,no,no,yes,yes,yes,no,yes,no,no,yes,no,yes
+GERD,no,no,no,yes,no,no,yes,yes,yes,yes,no,no,no
+Chronic cholestasis,yes,yes,yes,no,no,no,yes,no,no,yes,yes,no,no
+Drug Reaction,yes,yes,no,no,no,yes,yes,yes,no,no,yes,no,yes
+Peptic ulcer diseae,no,no,yes,no,yes,no,no,yes,yes,yes,no,no,no
+AIDS,no,no,no,yes,no,yes,no,yes,yes,yes,yes,no,no
+Diabetes ,no,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no
+Gastroenteritis,no,no,no,yes,no,no,yes,yes,yes,no,no,yes,yes
+Bronchial Asthma,no,no,yes,no,yes,yes,yes,no,yes,no,no,yes,yes
+Hypertension ,no,no,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes
+Migraine,no,no,no,yes,no,yes,no,yes,yes,yes,no,no,yes
+Jaundice,yes,no,no,no,yes,yes,no,no,yes,yes,yes,yes,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no
+Nothing,no,no,no,no,no,no,no,no,no,no,no,no,no

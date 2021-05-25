@@ -1,0 +1,160 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Login or Registration</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+table, th, td {
+  border: 1px solid black;
+  padding: 15px;
+}
+        header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  /* Change the position property to fixed, and top property to 0 */
+  position:fixed;
+  top:0;
+  /* Change the z-index property to 10 */
+  z-index:10;
+  color: #08ffd1;
+}
+
+.header-left {
+  float: left;
+}
+body {
+  margin-top: 85px;
+  font-family: "Lucida Grande";
+  background-color: #6abadeba;
+}
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+    </style>
+</head>
+<body>
+<header>
+      <div class="container">
+        <div class="header-left">
+          <h1>Healthcare Webapp</h1>
+
+</header>
+</div>
+
+{% block body %}
+<center>
+    <h2>
+        Online Orders Received
+    </h2>
+</center>
+<br>
+<center>
+<div class="container">
+    <div class="row">
+        <div class="col md-12">
+
+    {%with messages = get_flashed_messages()%}
+    {%if messages%}
+    {% for message in messages %}
+
+    <div class="alert alert-success alert-dismissable" role="alert">
+     <button type="button" class="close" data-dismiss="alert" aria-label ="close">
+         <span aria-hidden="true">&times;</span>
+     </button>
+      {{message}}
+    </div>
+    {%endfor%}
+    {%endif%}
+    {%endwith%}
+
+            <table class="table table-striped">
+                <tr>
+              <th>Email</th>
+              <th>Name</th>
+              <th>Phone</th>
+              <th>Medicine</th>
+              <th>Quantity</th>
+              <th>Address</th>
+              <th>City</th>
+              <th>Mode</th>
+              <th>Issued</th>
+          </tr>
+                {% for row in students %}
+                <tr>
+                    <td>{{row.0}}</td>
+                    <td>{{row.1}}</td>
+                    <td>{{row.2}}</td>
+                    <td>{{row.3}}</td>
+                    <td>{{row.4}}</td>
+                    <td>{{row.5}}</td>
+                    <td>{{row.6}}</td>
+                    <td>{{row.7}}</td>
+                    <td>{{row.8}}</td>
+
+                </tr>
+
+                <div id="modaledit{{row.0}}" class="modal fade" role="dialog">
+
+
+   <div class="modal-dialog">
+      <div class="modal-content">
+        <!-- <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Update Information</h4>
+         </div>
+        -->
+
+          <!--
+         <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+         </div>
+         -->
+      </div>
+   </div>
+</div>
+
+                {% endfor  %}
+                </tbody>
+            </table>
+        </div>
+        <br><br><br>
+        <center>
+    <a href = "{{url_for("issued_online") }}">
+    <button class="btn"><i class="fa fa-plus-circle"></i> UPDATE</button>
+</a>
+    <br><br>
+<a href = "{{url_for("index_func4_return") }}">
+    <button class="btn"><i class="fa fa-plus-circle"></i> EXIT</button>
+</a>
+
+
+</center>
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+   <div class="modal-dialog">
+      <div class="modal-content">
+          <!--
+         <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Please Insert Data</h4>
+         </div>
+        -->
+          <!--
+         <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+         </div>
+         -->
+      </div>
+   </div>
+</div>
+    </div>
+</div>
+</center>
+{% endblock %}
+
+</body>
+
+

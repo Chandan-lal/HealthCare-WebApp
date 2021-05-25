@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <title>Healthcare</title>
+    <style>
+        header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  /* Change the position property to fixed, and top property to 0 */
+  position:fixed;
+  top:0;
+  /* Change the z-index property to 10 */
+  z-index:10;
+  color: #08ffd1;
+}
+
+.header-left {
+  float: left;
+}
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+  background-color: #6abadeba;
+}
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+    </style>
+</head>
+<body>
+
+<center>
+<br><br>
+<p>Disease: {{pred4}}</p>
+<br><br>
+<p>Prescriptions: {{pred5}}</p>
+<br><br>
+<p>Timings of Doses: {{pred6}}</p>
+<br><br><br>
+<a href = "{{url_for("order_page") }}">
+    <button>Order Online</button>
+    <a href = "{{url_for("user_menu_page") }}">
+    <button>Go Back</button>
+
+</center>
+</body>
+</html>

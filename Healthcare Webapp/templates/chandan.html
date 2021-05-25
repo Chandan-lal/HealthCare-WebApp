@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+  <title> Disease-Prediction </title>
+    <style>
+
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+  background-color: #6abadeba;
+}
+    </style>
+</head>
+
+<body>
+<div id = "menu" align = "center">
+    <h1> Disease Prediction </h1>
+      <h5> If you are having any issue put 1 else put 0. </h5>
+</div>
+
+      <div class = "row">
+      <form action = '/predict' method = "post" class = "col s12">
+
+      <div class = "row">
+
+            <div id = "temp" align = "center">
+            <label for = "first_name"><b> Do you have Itching </b></label>
+            <br>
+            <input type="number" name="1" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+        <br>
+
+            <div id = "oxygen" align = "center">
+            <label for = "last_name"><b> Do you have skin Rash </b></label>
+            <br>
+             <input type="number" name="2" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+          <br>
+
+
+            <div id ="humid" align = "center">
+            <label for = "_name"><b> Nausea </b></label>
+            <br>
+            <input type="number" name="3" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+          <br>
+
+          <div id = "temp" align = "center">
+            <label for = "first_name"><b> Do you get Chills? </b></label>
+            <br>
+            <input type="number" name="4" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+            <br>
+
+          <div id = "oxygen" align = "center">
+            <label for = "last_name"><b> Do you get watering from Eyes?</b></label>
+            <br>
+            <input type="number" name="5" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+          <br>
+
+          <div id = "oxygen" align = "center">
+            <label for = "last_name"><b> Do you feel Shivering?</b></label>
+            <br>
+            <input type="number" name="6" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+          <br>
+
+          <div id = "oxygen" align = "center">
+            <label for = "last_name"><b> Do you have cough?</b></label>
+            <br>
+            <input type="number" name="7" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+          <br>
+
+          <div id = "oxygen" align = "center">
+            <label for = "last_name"><b> Do you get Stomach Pain?</b></label>
+            <br>
+            <input type="number" name="8" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+          <br>
+
+          <div id = "oxygen" align = "center">
+            <label for = "last_name"><b> Do you have acidity? </b></label>
+            <br>
+            <input type="number" name="9" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+            <br>
+
+          <div id = "oxygen" align = "center">
+            <label for = "last_name"><b> Are getting Vomiting?</b></label>
+            <br>
+            <input type="number" name="10" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+          <br>
+
+          <div id = "oxygen" align = "center">
+            <label for = "last_name"><b> Are you Loosing Weight?</b></label>
+            <br>
+            <input type="number" name="11" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+          <br>
+
+          <div id = "oxygen" align = "center">
+            <label for = "last_name"><b> Are you having fatigue?</b></label>
+            <br>
+            <input type="number" name="12" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+          <br>
+
+          <div id = "oxygen" align = "center">
+            <label for = "last_name"><b> Are you feeling dizziness?</b></label>
+            <br>
+            <input type="number" name="13" id="option6" placeholder="Enter 1 for Yes and 0 for No" min="0" max="1" required >
+            </div>
+          <br>
+      </div>
+
+
+       <div id = "predic" align="center">
+          <button type = "submit" class = "btn-large waves-effect waves-light orange"> SUBMIT </button>
+      </div>
+
+      </form>
+      </div>
+
+<br><p style = "text-align:center">{{pred}}</p><br>
+  </body>
+</html>

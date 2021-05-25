@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <title>Healthcare</title>
+    <style>
+        header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  /* Change the position property to fixed, and top property to 0 */
+  position:fixed;
+  top:0;
+  /* Change the z-index property to 10 */
+  z-index:10;
+}
+
+.header-left {
+  float: left;
+}
+body {
+
+  font-family: "Lucida Grande";
+  background-color: #6abadeba;
+}
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+    </style>
+</head>
+<body>
+<form action="user_update_form" method="post" >
+    <center>
+        <br><br><br><br>
+        <label for="w3review">Enter new Allergies</label>
+    <textarea id="w3review" name="w3review" rows="6" cols="50" placeholder="Allergies">  </textarea>
+    <br><br><br>
+
+        <label for="w3review">Enter new Ailments</label>
+        <textarea id="w3review" name="w3" rows="6" cols="50" placeholder="Ailments">  </textarea>
+        <br><br><br>
+
+
+    <button>UPDATE</button>
+    </center>
+</form>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <title>Healthcare</title>
+    <style>
+        header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  /* Change the position property to fixed, and top property to 0 */
+  position:fixed;
+  top:0;
+  /* Change the z-index property to 10 */
+  z-index:10;
+  color: #08ffd1;
+}
+
+.header-left {
+  float: left;
+}
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+  background-color: #6abadeba;
+}
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+    </style>
+</head>
+<body>
+<header>
+      <div class="container">
+        <div class="header-left">
+          <h1>Healthcare webapp</h1>
+        </div>
+      </div>
+</header>
+
+<br><br><br><br><br><br><br>
+<center>
+<a href = "{{url_for("update") }}">
+    <button>UPDATE PRESCRIPTIONS</button>
+    <br><br>
+    <a href = "{{url_for("logout_func") }}">
+    <button>EXIT</button>
+</center>
+<br><br><br><br>
+
+<p>{{pred2}}<br></p><br><br>
+<br><br>
+<p>{{pred3}}</p>
+</body>
+</html>
