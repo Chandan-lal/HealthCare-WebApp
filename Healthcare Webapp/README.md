@@ -1,7 +1,7 @@
 For more details on the project please go throught the report.
 TO run it create tables "users" and "billing" with the following columns for both the tables respectively.
 
-Note: The table names and columns are case sensitive and should be named the same. Unless it is changed in the code.
+Note: The table names and columns are case sensitive and should be named the same unless it is changed in the code.
 
 
 
